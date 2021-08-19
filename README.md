@@ -19,12 +19,3 @@
 |RStata|Stata中文社区|RStata数读|
 |:-:|:-:|:-:|
 | <img src="https://mdniceczx.oss-cn-beijing.aliyuncs.com/image_20201120143454.png" width="50%"/> | <img src="https://mdniceczx.oss-cn-beijing.aliyuncs.com/image_20201120143508.png" width="50%"/> | <img src="https://mdniceczx.oss-cn-beijing.aliyuncs.com/image_20210409233527.png" width="50%"/>
-
----
-
-<h4 align="center">
-License
-</h4>
-<h6 align="center">
-MIT © 微信公众号 RStata
-</h6>
